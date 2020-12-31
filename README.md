@@ -20,6 +20,6 @@ Fontend: ReactJs Hooks and Sass.
 ## Install the Project
 you should do npm install in "api" and "client" folder.
 
-- in the api folder run npm run dev
-- in the client npm start
+- in the api folder put command npm run dev
+- in the client put command npm start
 and will have the project running! :)
