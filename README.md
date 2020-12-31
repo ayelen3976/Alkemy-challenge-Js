@@ -5,6 +5,8 @@ In this challenge I had to create an app to manage the personal budget. creating
 
 
 Backend:  sequelize, postgresSQL and express.
+
+
 Fontend: ReactJs Hooks and Sass
 
 <div align="center">
