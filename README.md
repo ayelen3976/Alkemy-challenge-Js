@@ -1,7 +1,7 @@
 
 ##  About the App
 
-In this challenge I had to create an app to manage the personal budget. creating the backend and using it as api on the frontend.
+In this challenge I had to create an app to manage the personal budget you can create, edit and delete your operations!!. creating the backend and using it as api on the frontend.
 
 
 Backend:  sequelize, postgresSQL and express.
