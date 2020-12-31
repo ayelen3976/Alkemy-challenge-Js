@@ -2,6 +2,8 @@
 ##  About the App
 
 In this challenge I had to create an app to manage the personal budget. creating the backend and using it as api on the frontend.
+
+
 Backend:  sequelize, postgresSQL and express.
 Fontend: ReactJs Hooks and Sass
 
